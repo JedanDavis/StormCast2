@@ -1,2 +1,0 @@
-# StormCast
- A weather app
