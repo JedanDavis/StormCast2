@@ -24,10 +24,16 @@ StormCast is a weather forecast application built with React and Tailwind CSS. I
    ```bash
    git clone https://github.com/JedanDavis/stormcast.git
 Navigate to the project directory:
+
+   ```bash
 cd stormcast
+```
 Install the dependencies:
 
+ ```bash
 npm install
+```
+
 Create a .env file in the root directory and add your OpenWeatherMap API key:
 
 
